@@ -1,0 +1,6 @@
+-std=c99
+-pedantic
+-Wall
+-Wextra
+-I./elm99/include/
+-DUSE_STATIC_ASSERT
